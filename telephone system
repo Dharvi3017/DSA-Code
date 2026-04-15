@@ -1,0 +1,15 @@
+Telephone Contact System (C)
+
+This project is a telephone contact management system implemented in C using a doubly linked list.
+
+ Features
+- Add contact
+- Delete contact
+- Search contact
+- Display all contacts
+
+ Data Structure Used
+Doubly Linked List
+
+ Language
+C Programming
